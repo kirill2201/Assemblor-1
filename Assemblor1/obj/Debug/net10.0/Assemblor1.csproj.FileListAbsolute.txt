@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\bin\Debug\net10.0\Assemblor1.exe
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\bin\Debug\net10.0\Assemblor1.deps.json
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\bin\Debug\net10.0\Assemblor1.runtimeconfig.json
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\bin\Debug\net10.0\Assemblor1.dll
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\bin\Debug\net10.0\Assemblor1.pdb
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.sourcelink.json
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.dll
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\refint\Assemblor1.dll
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.pdb
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\Assemblor1.genruntimeconfig.cache
+C:\Users\Kirill\source\repos\Assemblor-1\Assemblor1\obj\Debug\net10.0\ref\Assemblor1.dll
