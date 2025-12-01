@@ -7,6 +7,7 @@ namespace Assemblor1
         static void Main(string[] args)
         {
             Console.WriteLine("Assemblor-1 awakens...");
+            Console.ReadLine();
         }
     }
 }
